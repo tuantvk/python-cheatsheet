@@ -70,11 +70,9 @@
 
 So you want to contribute? Fun! I love seeing new PRs for python cheatsheet. If you are thinking about working on something, feel free to make an issue beforehand so that you can make sure it'll be worth your time!
 
-<aside class="warning">
-If you use screenshot code, plz resize image to 800.
-Try it:
-</aside>
+> If you use screenshot code, plz resize image to 800.
 
+> Try it:
 [Resize image tool](https://github.com/tuantvk/python-cheatsheet/blob/master/assets/python/resize.py)
 
 ## 11. License
