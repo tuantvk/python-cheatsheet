@@ -11,8 +11,9 @@
 7. [Comprehdensions](#7-comprehdensions)
 8. [Format date](#8-format-date)
 9. [Django](#9-django)
-10. [Contributing](10-contributing)
-11. [License](#11-license)
+10. [Example](#10-example)
+11. [Contributing](#11-contributing)
+12. [License](#12-license)
 
 ### Recommended
 > Tips:
@@ -71,7 +72,14 @@
 
 [Django](https://github.com/tuantvk/python-cheatsheet/blob/master/src/django/django-basic.md)
 
-## 10. Contributing
+## 10. Example
+
+#### Python example
+
+- [string](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python-example/string.py)
+
+
+## 11. Contributing
 
 So you want to contribute? Fun! I love seeing new PRs for python cheatsheet. If you are thinking about working on something, feel free to make an issue beforehand so that you can make sure it'll be worth your time!
 
@@ -80,6 +88,6 @@ So you want to contribute? Fun! I love seeing new PRs for python cheatsheet. If 
 > Try it:
 [Resize image tool](https://github.com/tuantvk/python-cheatsheet/blob/master/assets/python/resize.py)
 
-## 11. License
+## 12. License
 
 MIT
