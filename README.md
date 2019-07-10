@@ -78,6 +78,7 @@
 
 - [string](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python-example/string.py)
 - [list](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python-example/list.py)
+- [tuple](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python-example/tuple.py)
 
 
 ## 11. Contributing
