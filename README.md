@@ -24,53 +24,53 @@
 
 ![Lists](https://github.com/tuantvk/python-cheatsheet/blob/master/assets/python/lists.png)
 
-[Lists](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/lists.md)
+[Lists Cheatsheet](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/lists.md)
 
 ## 2. Dict
 
 ![Dict](https://github.com/tuantvk/python-cheatsheet/blob/master/assets/python/dict.png)
 
-[Dict](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/dict.md)
+[Dict Cheatsheet](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/dict.md)
 
 ## 3. String
 
 ![String](https://github.com/tuantvk/python-cheatsheet/blob/master/assets/python/string.png)
 
-[String](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/string.md)
+[String Cheatsheet](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/string.md)
 
 ## 4. Iteration
 
 ![Iteration](https://github.com/tuantvk/python-cheatsheet/blob/master/assets/python/iteration.png)
 
-[Iteration](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/iteration.md)
+[Iteration Cheatsheet](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/iteration.md)
 
 ## 5. Casting
 
 ![Casting](https://github.com/tuantvk/python-cheatsheet/blob/master/assets/python/casting.png)
 
-[Casting](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/casting.md)
+[Casting Cheatsheet](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/casting.md)
 
 ## 6. Regex
 
 ![Regex](https://github.com/tuantvk/python-cheatsheet/blob/master/assets/python/regex.png)
 
-[Regex](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/regex.md)
+[Regex Cheatsheet](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/regex.md)
 
 ## 7. Comprehdensions
 
 ![Comprehdensions](https://github.com/tuantvk/python-cheatsheet/blob/master/assets/python/comprehdensions.png)
 
-[Comprehdensions](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/comprehdensions.md)
+[Comprehdensions Cheatsheet](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/comprehdensions.md)
 
 ## 8. Format date
 
 ![Format date](https://github.com/tuantvk/python-cheatsheet/blob/master/assets/python/format-date.png)
 
-[Format date](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/format-date.md)
+[Format date Cheatsheet](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python/format-date.md)
 
 ## 9. Django
 
-[Django](https://github.com/tuantvk/python-cheatsheet/blob/master/src/django/django-basic.md)
+[Django Cheatsheet](https://github.com/tuantvk/python-cheatsheet/blob/master/src/django/django-basic.md)
 
 ## 10. Example
 
@@ -80,6 +80,7 @@
 - [list](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python-example/list.py)
 - [tuple](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python-example/tuple.py)
 - [function](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python-example/function.py)
+- [set](https://github.com/tuantvk/python-cheatsheet/blob/master/src/python-example/set.py)
 
 
 ## 11. Contributing
