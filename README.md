@@ -20,6 +20,42 @@
 > View all my tools:
 [All tools python](https://github.com/tuantvk/python-cheatsheet/tree/master/src/tools)
 
+- **Tutorials**
+
+  - [Learn Python | CodeAcademy](https://www.codecademy.com/learn/learn-python)
+  - [Progate Python Classes](https://progate.com/languages/python)
+  - [Video Tutorial for absolute beginners | YouTube](http://bit.ly/2NkrsKh)
+  - [Intro to Python | Udacity](https://in.udacity.com/course/introduction-to-python--ud1110-india) :free:
+  - [Python For Everybody](https://www.coursera.org/specializations/python)
+  - [Write Better Python Functions](https://jeffknupp.com/)
+  - [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
+  - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Recommended
+  - [The New Boston Python | Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+  - [Think Python 2e - Green Tea Press](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
+  - [A Byte of Python](https://python.swaroopch.com/)
+  - [Project Euler](https://projecteuler.net/)
+  - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
+  - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+  - [Python Class By Google](https://developers.google.com/edu/python/) - Recommended
+  - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+  - [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
+  - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+
+- **Django - Python**
+
+  - [Try Django | YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW)
+  - [Django Docs](https://docs.djangoproject.com/en/2.1/)
+  - [Django Girls](https://tutorial.djangogirls.org/en/)
+  - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+  - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
+  - [Tango With Django Book](https://www.tangowithdjango.com/book/)
+  - [Django Class-Based Views](https://ccbv.co.uk/)
+  - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
+
+- **Flask - Python**
+
+  - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
 ## 1. Lists
 
 ![Lists](https://github.com/tuantvk/python-cheatsheet/blob/master/assets/python/lists.png)
