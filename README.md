@@ -244,7 +244,7 @@ a, rest = [1, 3, 4, 6]
 In this case, a will get 1   and rest of the list will get assigned to variable rest. i.e  [3, 4, 6]
 
 
-## String Concatenation  with delimiter
+## String Concatenation with delimiter
 
 If you want to concatenate list of strings with some random delimiter. You can do that by using string method **join**
 
@@ -253,6 +253,72 @@ If you want to concatenate list of strings with some random delimiter. You can d
 " || ".join(["hello", "world", "how", "are", "you"])
 
 'hello || world || how || are || you'
+```
+
+## Powerful One-Liners
+
+Are you tired of reading through lines of code and getting lost in conditional statements? Python one-liners might just be what you are looking for. For example, the conditional statements.
+
+```python
+if alpha > 7:
+   beta = 999
+elif alpha == 7:
+   beta = 99
+else:
+   beta = 0
+```
+
+can really be simplified to:
+
+```python
+beta = 999 if alpha > 7 else 99 if alpha == 7 else 0
+```
+
+## Removing duplicates items from a list
+
+Most of the time we wanted to remove or find the duplicate item from the list.  Let see how to delete duplicate from a list. The best approach is to convert a list into a set. Sets are unordered data-structure of unique values and don’t allow copies.
+
+```python
+listNumbers = [20, 22, 24, 26, 28, 28, 20, 30, 24]
+print("Original= ", listNumbers)
+
+listNumbers = list(set(listNumbers))
+print("After removing duplicate= ", listNumbers)
+```
+
+## How to efficiently compare two unordered lists
+
+Above two lists contains the same element only their order is different. Let see how we can find two lists are identical.
+
+- We can use `collections.Counter` method if our object is hashable.
+- We can use `sorted()` if objects are orderable.
+
+```python
+from collections import Counter
+
+one = [33, 22, 11, 44, 55]
+two = [22, 11, 44, 55, 33]
+print("is two list are b equal", Counter(one) == Counter(two))
+```
+
+## Convert Byte to String
+
+To convert byte to string we can decode the bytes object to produce a string. You can decode in the charset you want.
+
+```python
+byteVar = b"pynative"
+str = str(byteVar.decode("utf-8"))
+print("Byte to string is" , str )
+```
+
+## Convert hex string, String to int
+
+```python
+hexNumber = "0xfde"
+stringNumber="34"
+
+print("Hext toint", int(hexNumber, 0))
+print("String to int", int(stringNumber, 0))
 ```
 
 ## 1. Lists
